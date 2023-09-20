@@ -8,75 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d108cfbd8c56a429",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ede664cce9ffd70d",
+            "id": "246202ed7f11f384",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ossu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3cb0a0231d5a88c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb461a4ec6edeeea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Missing/lecture 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3dadffb4f3fd9732",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Missing/lecture 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab1981f2e7122e8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary.md",
+                "file": "missing/Exam design.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary.md",
+                "file": "missing/Exam design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary.md",
+                "file": "missing/Exam design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary.md"
+                "file": "missing/Exam design.md"
               }
             }
           }
@@ -203,13 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab1981f2e7122e8d",
+  "active": "246202ed7f11f384",
   "lastOpenFiles": [
-    "Missing/lecture 6.md",
-    "Diary.md",
+    "intro to cs/exam design.md",
     "Plan.md",
+    "Why?.md",
+    "missing/week 1 (shell).md",
+    "missing/Exam design.md",
+    "missing/week 6 (git).md",
+    "Curriculum.md",
+    "Diary.md",
     "Ossu.md",
-    "Missing/lecture 1.md",
-    "Missing"
+    "intro to cs",
+    "missing"
   ]
 }
