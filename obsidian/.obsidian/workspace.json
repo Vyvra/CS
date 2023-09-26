@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neovim.md",
+                "file": "CS50/Url.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neovim.md",
+                "file": "CS50/Url.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neovim.md",
+                "file": "CS50/Url.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neovim.md"
+                "file": "CS50/Url.md"
               }
             }
           }
@@ -161,14 +161,18 @@
   },
   "active": "e947b1592b7e61f0",
   "lastOpenFiles": [
-    "missing/Exam design.md",
-    "Neovim.md",
     "intro to cs/exam design.md",
+    "CS50/Url.md",
+    "CS50",
+    "Server/Solved errors.md",
     "Plan.md",
+    "Server",
+    "Curriculum.md",
+    "Neovim.md",
+    "missing/Exam design.md",
     "Why?.md",
     "missing/week 1 (shell).md",
     "missing/week 6 (git).md",
-    "Curriculum.md",
     "Diary.md",
     "Ossu.md",
     "intro to cs",

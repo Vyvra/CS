@@ -15,10 +15,14 @@ I found https://teachyourselfcs.com/ witch offers it's own curriculum.
 There is also: https://functionalcs.github.io/curriculum/#org6d18dbf It's opinions seem to align with mine
 https://github.com/jwasham/coding-interview-university
 https://roadmap.sh/computer-science
-
+some random reddit post: https://www.reddit.com/r/learnprogramming/comments/gsansp/my_55step_selftaught_cs_curriculum_updated/
 I see many recommendations for SICP.
+this seems really good for web: https://fullstackopen.com/en/about
 
 I like the way that Roadmap.sh shows what there is to learn. I think it would be nice if I could build a map like that for what I have learned and link to projects/repos that show my work. 
 
-
+Finish cs50P
+Build homeassistant integration as a final project
+	watch the frenck video about making an integration
+	read realpython about asynci1o
 

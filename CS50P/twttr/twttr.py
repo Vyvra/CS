@@ -5,5 +5,7 @@ def main():
         if c not in vowels:
             print(c, end="")
     print("")
+
+
 if __name__ == "__main__":
     main()
