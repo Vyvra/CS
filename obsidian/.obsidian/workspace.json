@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "05248176937fca68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neovim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server/Solved errors.md",
+                "file": "Neovim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Server/Solved errors.md",
+                "file": "Neovim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Server/Solved errors.md"
+                "file": "Neovim.md"
               }
             }
           }
@@ -159,7 +171,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e947b1592b7e61f0",
+  "active": "05248176937fca68",
   "lastOpenFiles": [
     "CS50/Url.md",
     "intro to cs/exam design.md",
