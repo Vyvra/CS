@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50/Url.md",
+                "file": "Server/Solved errors.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50/Url.md",
+                "file": "Server/Solved errors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50/Url.md",
+                "file": "Server/Solved errors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50/Url.md"
+                "file": "Server/Solved errors.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "e947b1592b7e61f0",
   "lastOpenFiles": [
-    "intro to cs/exam design.md",
     "CS50/Url.md",
+    "intro to cs/exam design.md",
     "CS50",
     "Server/Solved errors.md",
     "Plan.md",
